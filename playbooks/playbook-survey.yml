@@ -32,3 +32,4 @@
       ansible.builtin.debug:
         msg: "Release Major Ver: {{ release_major_ver }}"
 
+
